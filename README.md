@@ -1,3 +1,4 @@
+![Flutter App Developer](https://github.com/pawanmali1010/Counter_App/blob/main/Counter_App_Image.jpg?raw=true)
 # Counter_App
 Developed an interactive Counter App using Flutter and Dart, demonstrating StatefulWidget and state management. Gained hands-on experience with widgets, layouts, and hot reload. Followed best practices for clean, reusable, and optimized code.
 
